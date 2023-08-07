@@ -1,7 +1,9 @@
+[![MasterHead](https://camo.githubusercontent.com/dcba36fec68f7f3cc9663d2c09d233204008e4323bbfdbb7124d6c5bb9e3889c/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966)
 <h1 align="center">Hi 👋, I'm Sreerag P</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenM5djdhaTlwcTk0eTVqdDEydTZmeW1zcXMwZDVuZWxpeWRwZzhieiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
 
-<p align="left"> <img src="https://yolabs.in/wp-content/uploads/2020/09/kids-coding-art.jpg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsreerag217001&label=Profile%20views&color=0e75b6&style=flat" alt="httpsreerag217001" /> </p>
 
 - 🌱 I’m currently learning **React Js**
 
